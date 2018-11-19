@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:v3
+FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.4.3
